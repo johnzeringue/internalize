@@ -15,9 +15,10 @@ body {
 
 /* Custom page header */
 .header {
+  text-align: center;
   padding-left: 15px;
   padding-right: 15px;
-  border-bottom: 1px solid #777;
+  border-bottom: 1px solid;
 }
 
 /* Make the masthead heading the same height as the navigation */
